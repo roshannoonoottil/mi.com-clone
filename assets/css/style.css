@@ -1,0 +1,212 @@
+.header{
+    width: 100%;
+    height: 60px;
+    background-color:rgb(255, 255, 255) ;
+   
+}
+body{
+    margin: 0px;
+}
+.navbar{
+    padding: 20px;
+    height: 15px;
+    display:flex;
+    align-items: center;
+    
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+nav{
+    text-align: right;
+    
+    padding-top:5px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+   padding-left: 25px;
+   margin-left: 20px;;
+    
+}
+nav ul li a{
+    text-decoration:none;
+    color:black;
+    font-size: 15px;
+}
+.navimg{
+    width:25px;
+    height: 25px;
+    padding-left: 50px;
+    cursor: pointer;
+}
+.main_body{
+    width: 100%;
+    height: 1700px;
+    background-color: #fff;
+   
+}
+.body_img{
+    width: 100%;
+    height: 420px;
+    cursor: pointer;
+    
+
+}
+.body_img1
+{
+    padding-top: 10px;
+    width: 100%;
+    height: 420px;
+    cursor: pointer;
+    
+
+}
+.pic1_hedding{
+    position: absolute;
+    color: white;
+    padding-left: 13%;
+    padding-top: 140px;
+}
+.pic1_sub_hedding{
+    position: absolute;
+    color:#fff ;
+    padding-left: 13%;
+    padding-top: 180px;
+}
+.btn1{
+    position: absolute;
+    margin-left: 13%;
+    margin-top: 240PX;
+    color: black;
+    background-color: #fff;
+    border-radius: 8px;
+    border: none;
+    height: 30px;
+    width: 180px;
+    cursor: pointer;
+    
+}
+.btn1:hover {
+    background-color: gainsboro;
+  }
+  .btn2:hover {
+    background-color: gainsboro;
+  }
+  .pic2_hedding{
+    position: absolute;
+    margin-left: 13%;
+    margin-top: 250px;
+    color:#fff ;
+    margin-top: 250PX;
+  }
+  .btn2{
+    position: absolute;
+    margin-left: 13%;
+    margin-top: 330PX;
+    color: black;
+    background-color: #fff;
+    border-radius: 8px;
+    border: none;
+    height: 30px;
+    width: 180px;
+    cursor: pointer;
+    
+}
+.price1{
+    position: absolute;
+    margin-left: 13%;
+   
+    color:#fff ;
+    margin-top: 290PX;
+}
+.delprc{
+    color: gray;
+}
+.body3sec div img{
+        width: 48%;
+        height: 420px;
+        cursor: pointer;
+        margin: 12px;
+        padding-top: 12px;
+        float: left;
+}
+.body4sec{
+    width: 100%;
+    height: 420p;
+}
+ .trimmer{
+    width: 48%;
+    height: 420px;
+    cursor: pointer;
+    margin: 12px;
+    float: left;
+   
+
+}
+.lapmitri{
+    width: 23%;
+    height: 420px;
+    cursor: pointer;
+    margin: 12px;  
+    float: left;
+    
+
+}
+
+
+.subfooter{
+    width: 100%;
+    height: 500px;
+
+}
+.subfooter1{
+    width: 15%;
+    height: 500px;
+    background-color: #191919;
+    float: left;
+    color:white;
+}
+.subfooter2{
+    width: 40%;
+    height: 500px;
+    background-color:#191919;
+    float: left;
+    color: #fff;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color:#212020;
+}
+ul li{
+    list-style: none;
+    padding: 3.5px;
+    color: #898989;
+}
+ul li:hover{
+    color: #fff;
+    cursor: pointer;
+}
+h4{
+    color: #fff;
+}
+div i{
+    
+    padding-left: 40px;
+    cursor: pointer;
+}
+.email
+{
+    color: #fff;
+    background-color: #191919;
+    border-radius: 6px;
+    border-color: #898989;
+    margin-left: 40px;
+    border: solid 1px;
+    padding: 8px;
+    width: 220px;
+}
+
